@@ -1,6 +1,4 @@
 shiny-nemesis
 =============
 
-Test
-
-Test 1
+Nemesis? Not on my watch!
